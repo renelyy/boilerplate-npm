@@ -1,8 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"author": "renel",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
